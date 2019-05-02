@@ -1,0 +1,97 @@
+{
+  "ret": true,
+  "data": [
+    {
+      "id": "01",
+      "sightName": "Irvine The Village Aprtment",
+      "bannerImg": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/thevillageatirvinespectrumcenter/delrey/photography/THE_VILLAGE-DELREY-569.TIF?&wid=766&hei=560&qlt=60&crop=136,0,3254,2376&fit=stretch&iccEmbed=1&icc=AdobeRGB&fmt=pjpeg&pscan=auto",
+      "gallaryImgs": [
+        "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/thevillageatirvinespectrumcenter/delrey/photography/MODELKITCHEN.TIF?&wid=766&hei=560&qlt=60&crop=70,0,3287,2400&fit=stretch&iccEmbed=1&icc=AdobeRGB&fmt=pjpeg&pscan=auto",
+        "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/thevillageatirvinespectrumcenter/serena/photography/SERENA-LAMB-EXT-531.TIF?&wid=766&hei=560&qlt=60&crop=182,0,4929,3599&fit=stretch&iccEmbed=1&icc=AdobeRGB&fmt=pjpeg&pscan=auto",
+        "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/thevillageatirvinespectrumcenter/delrey/photography/THE_VILLAGE-DELREY-216.TIF?&wid=766&hei=560&qlt=60&crop=313,0,3287,2400&fit=stretch&iccEmbed=1&icc=AdobeRGB&fmt=pjpeg&pscan=auto"
+      ],
+      "priceType": [
+        {
+          "name": "Single Night Pirce",
+          "children": [
+            {
+              "name": "one night",
+              "children": [
+                {
+                  "name": "Two Nights"
+                }
+              ]
+            }
+          ]
+        }, {
+          "name": "Week Price",
+          "children": [
+            {
+              "name": "One Week"
+            }, {
+              "name": "Two Weeks"
+            }
+          ]
+        }, {
+          "name": "Contact Landlorad"
+        }, {
+          "name": "Book Online",
+          "children": [
+            {
+              "name": "Phone: xxxxx"
+            }, {
+              "name": "Email: xxxxxx"
+            }, {
+              "name": "FaceBook: xxxxx"
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": "02",
+      "sightName": "Skyline Apartment Hoomes",
+      "bannerImg": "https://ssl.c.photoshelter.com/img-get2/I0000QCg6lgIT3VY/sec=wd0sd0oe0lwe0ms1000ed201905049GtqBtsVvcJb9O./fill=1020x683/04-Essex-Skyline-at-MacArthur-Place-Pool-Area-Orange-County.jpg",
+      "gallaryImgs": [
+        "https://ssl.c.photoshelter.com/img-get2/I0000ue5sXeTndeU/sec=wd0sd0oe0lwe0ms1000ed201905046vkPKyXmLm2BHtP/fill=1020x683/05-Essex-Skyline-at-MacArthur-Place-Orange-County.jpg",
+        "https://ssl.c.photoshelter.com/img-get2/I0000Un7aCYBkwDM/sec=wd0sd0oe0lwe0ms1000ed20190504Oq_ABzZuS6r.4mk/fill=1020x683/06-Essex-Skyline-at-MacArthur-Place-For-Rent-Orange-County.jpg"
+      ],
+      "priceType": [
+        {
+          "name": "Single Night Pirce",
+          "children": [
+            {
+              "name": "one night",
+              "children": [
+                {
+                  "name": "Two Nights"
+                }
+              ]
+            }
+          ]
+        }, {
+          "name": "Week Price",
+          "children": [
+            {
+              "name": "One Week"
+            }, {
+              "name": "Two Weeks"
+            }
+          ]
+        }, {
+          "name": "Contact Landlorad"
+        }, {
+          "name": "Book Online",
+          "children": [
+            {
+              "name": "Phone: xxxxx"
+            }, {
+              "name": "Email: xxxxxx"
+            }, {
+              "name": "FaceBook: xxxxx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

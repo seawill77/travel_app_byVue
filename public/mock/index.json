@@ -1,0 +1,90 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "01",
+        "imgUrl": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/thevillageatirvinespectrumcenter/delrey/photography/THE_VILLAGE-DELREY-569.TIF?&wid=766&hei=560&qlt=60&crop=136,0,3254,2376&fit=stretch&iccEmbed=1&icc=AdobeRGB&fmt=pjpeg&pscan=auto"
+        }, {
+        "id": "02",
+        "imgUrl": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/870/544/75/dam/disneyland/offers-discounts/southern-california-tickets/pixar-pier-guests-entrance-1x1.jpg?1553881321089"
+        }, {
+        "id": "03",
+        "imgUrl": "https://ssl.c.photoshelter.com/img-get2/I0000QCg6lgIT3VY/sec=wd0sd0oe0lwe0ms1000ed201905049GtqBtsVvcJb9O./fill=1020x683/04-Essex-Skyline-at-MacArthur-Place-Pool-Area-Orange-County.jpg"
+        }, {
+        "id": "04",
+        "imgUrl": "http://www.fullerton.edu/housing/_resources/images/slider/csuf_sh3_1.jpg"
+      }],
+    "iconList": [{
+        "id": "01",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "title": "Hotels"
+      }, {
+        "id": "02",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png",
+        "title": "AirB&B"
+      }, {
+        "id": "03",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "title": "Popular Spots"
+      }, {
+        "id": "04",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/bd/9f7b9b2b60c1502.png",
+        "title": "Hiking in Fullerton"
+      }, {
+        "id": "05",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "title": "One Day Tour"
+      }, {
+        "id": "06",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png",
+        "title": "Whale Watch"
+      }, {
+        "id": "07",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png",
+        "title": "Food"
+      }, {
+        "id": "08",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+        "title": "Schools"
+      }, {
+        "id": "09",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "title": "Fishing"
+      }, {
+        "id": "10",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+        "title": "All"
+      }],
+      "recommendList": [{
+        "id": "01",
+        "title": "The Village Aptment Hoomes",
+        "address": "Irvine City",
+        "price": "$ 99 /night up",
+        "imgUrl": "https://dynamicmedia.irvinecompany.com/is/image/content/dam/apartments/3-readytopublish/communities/orangecounty/irvine/thevillageatirvinespectrumcenter/delrey/photography/THE_VILLAGE-DELREY-569.TIF?&wid=766&hei=560&qlt=60&crop=136,0,3254,2376&fit=stretch&iccEmbed=1&icc=AdobeRGB&fmt=pjpeg&pscan=auto"
+        }, {
+        "id": "02",
+        "title": "The Skyline Aptment Hoomes",
+        "address": "Santa Ana",
+        "price": "$ 128 / night",
+        "imgUrl": "https://ssl.c.photoshelter.com/img-get2/I0000QCg6lgIT3VY/sec=wd0sd0oe0lwe0ms1000ed201905049GtqBtsVvcJb9O./fill=1020x683/04-Essex-Skyline-at-MacArthur-Place-Pool-Area-Orange-County.jpg"
+      }, {
+        "id": "03",
+        "title": "CSU Fullerton University Hommes",
+        "address": "Fullerton",
+        "price": "$ 68 / night",
+        "imgUrl": "http://www.fullerton.edu/housing/_resources/images/slider/csuf_sh3_1.jpg"
+      }],
+    "weekendList": [{
+        "id": "01",
+        "title": "Disneyland tour",
+        "desc": "Disneyland tour",
+        "imgUrl": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/870/544/75/dam/disneyland/offers-discounts/southern-california-tickets/pixar-pier-guests-entrance-1x1.jpg?1553881321089"
+      }, {
+        "id": "02",
+        "title": "Universal Studio tour",
+        "desc": "A deep visit in HollyWood",
+        "imgUrl": "https://www.universalstudioshollywood.com/wp-content/uploads/2019/04/JW_Arch_DL_2800x1197.jpg"
+      }]
+  }
+}

@@ -1,0 +1,142 @@
+{
+	"ret": true,
+	"data":{
+		"location": "Fullerton",
+		"hotCities": [{
+			"id": 1,
+			"spell": "Arcadia",
+			"name": "Arcadia"
+		}, {
+			"id": 3,
+			"spell": "Los Angeles",
+			"name": "Los Angeles"
+		}, {
+			"id": 47,
+			"spell": "Brea",
+			"name": "Brea"
+		}, {
+			"id": 239,
+			"spell": "Baldwin Park",
+			"name": "Baldwin Park"
+		}, {
+			"id": 188,
+			"spell": "Alhambra",
+			"name": "Alhambra"
+		}, {
+			"id": 125,
+			"spell": "Irvine",
+			"name": "Irvine"
+		}],
+		"cities": {
+			"A": [{
+				"id": 56,
+				"spell": "Alhambra",
+				"name": "Alhambra"
+			}, {
+				"id": 57,
+				"spell": "akesu",
+				"name": "Artesia"
+			}, {
+				"id": 58,
+				"spell": "alashanmeng",
+				"name": "alashanmeng"
+			}, {
+				"id": 59,
+				"spell": "aletai",
+				"name": "aletai"
+			}, {
+				"id": 60,
+				"spell": "Azusa",
+				"name": "Azusa"
+			}],
+			"B": [{
+				"id": 1,
+				"spell": "Baldwin Park",
+				"name": "Baldwin Park"
+			}, {
+				"id": 66,
+				"spell": "Bell Gardens",
+				"name": "Bell Gardens"
+			}, {
+				"id": 67,
+				"spell": "Bellflower",
+				"name": "Bellflower"
+			}, {
+				"id": 68,
+				"spell": "Beverly Hills",
+				"name": "Beverly Hills"
+			}, {
+				"id": 69,
+				"spell": "Burbank",
+				"name": "Burbank"
+			}],
+			"C": [{
+				"id": 2,
+				"spell": "Carson",
+				"name": "Carson"
+			}, {
+				"id": 5,
+				"spell": "Cerritos",
+				"name": "Cerritos"
+			}, {
+				"id": 6,
+				"spell": "Compton",
+				"name": "Compton"
+			}, {
+				"id": 7,
+				"spell": "Covina",
+				"name": "Covina"
+			}, {
+				"id": 8,
+				"spell": "Culver City",
+				"name": "Culver City"
+			}],
+			"D": [{
+				"id": 9,
+				"spell": "Diamond Bar",
+				"name": "Diamond Bar"
+			}, {
+				"id": 10,
+				"spell": "Downey",
+				"name": "Downey"
+			}],
+			"E": [{
+				"id": 111,
+				"spell": "El Monte",
+				"name": "El Monte"
+			}, {
+				"id": 112,
+				"spell": "El Segundo",
+				"name": "El Segundo"
+			}],
+			"F": [{
+				"id": 11,
+				"spell": "fullerton",
+				"name": "Fullerton"
+			}],
+			"G": [{
+				"id": 13,
+				"spell": "Glendale",
+				"name": "Glendale"
+			}],
+			"H": [{
+				"id": 15,
+				"spell": "Huntington Park",
+				"name": "Huntington Park"
+			}, {
+				"id": 16,
+				"spell": "Huntington Beach",
+				"name": "Huntington Beach"
+			}, {
+				"id": 17,
+				"spell": "Hacinda Height",
+				"name": "Hacinda Height"
+			}],
+			"I": [{
+				"id": 18,
+				"spell": "Irvine",
+				"name": "Irvine City"
+			}]
+		}
+	}
+}
